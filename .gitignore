@@ -1,1 +1,1 @@
-.idea.pytest*venv
+.idea.pytest*__pycache__venv
